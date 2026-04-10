@@ -1,0 +1,17 @@
+{
+  "name": "Home Manager",
+  "short_name": "Home",
+  "description": "Household stock, pantry and Lachi tracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#1C1C28",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
